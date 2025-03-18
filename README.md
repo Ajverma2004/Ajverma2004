@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 I’m currently learning AR implementation<br>👯 I’m looking to collaborate on Open-source Android projects, innovative UI/UX, and machine learning integrations.<br>🤝 I’m looking for help with complex AR features in mobile apps<br>💬 Ask me about: Android development, clean architecture and reusable mobile components.<br>⚡ I believe even simple apps, when thoughtfully designed, can create a meaningful impact.th<br>
+🔭 I’m currently working on Android Development<br>🌱 I’m currently learning AR implementation<br>👯 I’m looking to collaborate on Open-source Android projects, innovative UI/UX, and machine learning integrations.<br>🤝 I’m looking for help with complex AR features in mobile apps<br>💬 Ask me about: Android development, clean architecture and reusable mobile components.<br>⚡ I believe even simple apps, when thoughtfully designed, can create a meaningful impact<br>
 
 <br>
 
